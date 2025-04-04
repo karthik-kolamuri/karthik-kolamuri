@@ -1,17 +1,18 @@
-<h1 align="center">Hey 👋, I'm Karthik Kolamuri</h1>
-<p align="center">
-  Aspiring Backend Developer • DevOps Enthusiast • Code-First Problem Solver
-</p>
+<h1 align="center">Hi there, I'm Karthik Kolamuri! 👋</h1>
+<h3 align="center">🚀 Full-Stack Developer | Backend & DevOps Enthusiast | Code-Driven Problem Solver</h3>
 
 ---
 
-### 💡 About Me
+### 🚀 About Me
 
-🎯 Focused on building robust backend systems and exploring the DevOps lifecycle.  
-🚀 Passionate about automation, clean code, and scalable architectures.  
-🛠️ I believe in shipping fast, learning faster, and solving real-world problems through code.
+- 🌱 Currently diving deep into Full Stack development, DevOps workflows, and scalable architecture  
+- 🎯 2025 Goal: Build production-grade apps, contribute to open-source, and land a top-tier tech role  
+- 💡 Passionate about automating workflows and building systems that *just work*  
+- ⚡ Fun fact: I optimize everything—even how I make coffee ☕️💻  
 
 ---
+
+
 
 ### 🧰 Tech Stack
 
